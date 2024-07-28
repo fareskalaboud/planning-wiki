@@ -44,7 +44,7 @@ It also links to education resources, and provides links to institutions that ar
 [Visual Studio Code](https://code.visualstudio.com/) is a text editor developed by microsoft with a plethora of fantastic integrations. A fantastically helpful [PDDL plugin](https://marketplace.visualstudio.com/items?itemName=jan-dolejsi.pddl) allows for the development of PDDL with syntax highlighting and then in-editor execution of the domain and problem file on pre-installed planners.
 
 ## Learning Resources
-### [Learn PDDL by Fares K. Alaboud](https://fareskalaboud.github.io/LearnPDDL/)
+### [Learn PDDL by Dr Fares K. Alaboud](https://fareskalaboud.github.io/LearnPDDL/)
 [Learn PDDL](https://fareskalaboud.github.io/LearnPDDL/) is an introductory tutorial on PDDL which allows you to get to grips with the writing and developing of PDDL files. PDDL1.2 is introduced first using basic predicate logic before proceeding to make progressively more complex domains.
 
 ### Introduction to AI Planning
